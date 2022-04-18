@@ -1,0 +1,1 @@
+# Yoklama-sisteminin-blokzincir-kurgusu
